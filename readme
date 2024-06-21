@@ -1,0 +1,7 @@
+The "FIFO Basic Operation" test case aims to validate the core functionality of a FIFO (First-In-First-Out) memory system. It includes steps for initializing the system, writing data to confirm the order of input, reading data to confirm the order of output, and testing boundary conditions like overflow and underflow. This thorough test ensures that the FIFO memory accurately stores and retrieves data as per its defined behavior and capacity limits, maintaining the expected first-in, first-out sequence.
+
+
+
+
+
+
